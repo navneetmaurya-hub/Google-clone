@@ -1,0 +1,117 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.heder{
+    display: flex;
+    align-items: center;
+    border:0.1rem solid white;
+    box-shadow:0.002rem 0.002rem 0.002rem 0.002rem black;
+    height:3rem;
+    width:100%;
+}
+.heder i{
+    margin-left:1rem;
+}
+.heder1{
+    margin-left: 1rem;
+    display: flex;
+    height:2.5rem;
+    width:87.5%;
+    align-items: center;
+    justify-content: space-between;
+    border: 0.18em solid blue;
+    border-radius: 4rem;
+}
+.heder1 img{
+    margin-left: 1rem;
+}
+.heder1 i{
+    margin-right: 1rem;
+}
+.ram{
+    height:4rem;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.part1{
+    height:3rem;
+    width:18rem;
+    display: flex;
+    align-items: center;
+}
+.part1 p{
+    margin-left: 2rem;
+}
+.part1 i{
+    margin-left: 2rem;
+}
+.ram1{
+    height:4rem;
+    width:100%;
+}
+.nityam{
+    height:9rem;
+    width:100%;
+}
+.nityam1{
+    height:7rem;
+    width:20rem;
+}
+.nityam .nityam1{
+    margin-left: 40rem;
+    margin-top:4rem ;
+}
+.satyam{
+    height:0rem;
+    width:100%;
+    margin-bottom: 6rem;
+    background-color: yellow;
+}
+.satyam1{
+    height:3rem;
+    width:45rem;
+    border:0.0000002rem solid black;
+    border-radius: 4rem;
+    box-shadow:0.002rem 0.002rem 0.002rem 0.002rem black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25rem;
+}
+.nav{
+    display:flex;
+    align-items: center;
+}
+.nav i{
+    margin-left: 1rem;
+}
+.nav p{
+    margin-left: 1rem;
+}
+.navn i{
+   margin-right:1rem ;
+}
+.nitish{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:3rem;
+    width:3rem;
+    border-radius: 100%;
+    border: 0.0000001rem solid black;
+    background-color: rgb(217, 217, 226);
+    margin-left: 3rem;
+}
+.navneet{
+    height:10rem;
+    width:100%;
+}
+.sunil{
+    display: flex;
+    height:5rem;
+    width:45rem;
+    margin-left: 25rem;
+}
